@@ -1,1 +1,2 @@
-# Este repositorio almacena ejercicios realizados en java ( Modo practica )
+# Ejercicios en java
+### ( Modo practica )
