@@ -4,17 +4,18 @@ public class Main {
     public static void main(String[] args) {
         System.out.println();
 
-        Celulares celular1 = new Celulares(
-            "A72", 
-            "GxT72",
-            "Korea",
-            "Media",
-            "SN855452",
-            "999999999999999",
-            350
-            );
+        Ascensor ascensor_1 = new Ascensor(
+            "Asensor 15",
+            4,
+            "HC 54521",
+            "Comercial",
+            10000000.0,
+            200000.0
+        );
 
-        System.out.println(celular1.gama);
+        System.out.println(ascensor_1.nombre);
+        
+        System.out.println(ascensor_1.getValorTotal());
 
         System.out.println();
     }
