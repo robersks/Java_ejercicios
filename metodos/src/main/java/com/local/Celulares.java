@@ -31,4 +31,11 @@ public class Celulares {
         this.pesoGramos = pesoGramos;
         
     }
+
+    public String celularesPorMarca (){
+        return  "Retornado";
+        
+    }
+
 } 
+
